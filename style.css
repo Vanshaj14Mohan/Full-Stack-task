@@ -1,0 +1,160 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* For main page */
+#hotel{
+    text-align: center;
+}
+
+#hotel h2{
+    position: absolute;
+    top:12%;
+    left:67%;
+    color:blueviolet;
+    height:50px;
+    width:200px;
+    background-color:chartreuse;
+    text-align: center;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+}
+
+.foots{
+    width:100%;
+    height:40px;
+    background-color:rgb(34, 178, 137);
+}
+
+#hotel p{
+    position: absolute;
+    top:30%;
+    left:50%;
+    color:blueviolet;
+    font-size: 30px;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+    height:45px;
+}
+
+#heading{
+    margin-top: 10px;
+    height:200px;
+    width:400px;
+    border:1px solid gold;
+    background-color: aqua;
+    display: flex;
+    justify-content:center;
+    margin-left: 550px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav li {
+    margin-right: 20px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* main {
+    display: flex;
+    flex-direction */
+
+#foot{
+    width:100%;
+    height:100px;
+    background-color: gray;
+}
+
+section h1 {
+    position: absolute;
+    top:12%;
+    left:67%;
+    color:blueviolet;
+    height:30px;
+    width:200px;
+    background-color:chartreuse;
+    text-align: center;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+}
+
+section p {
+    position: absolute;
+    top:20%;
+    left:50%;
+    color:blueviolet;
+    font-size: 30px;
+}
+
+.foot{
+    width:100%;
+    height:40px;
+    background-color:rgb(34, 178, 137);
+}
+
+footer p {
+    text-align: center;
+}
+
+
+/* For contact  */
+.contact h1{
+    position: absolute;
+    top:12%;
+    left:67%;
+    color:blueviolet;
+    height:50px;
+    width:200px;
+    background-color:chartreuse;
+    text-align: center;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+}
+
+.contact p {
+    position: absolute;
+    top:30%;
+    left:50%;
+    color:blueviolet;
+    font-size: 30px;
+}
+
+.contact form{
+    position: absolute;
+    top:50%;
+    left:70%;
+    color:blueviolet;
+    font-size: 30px;
+}
+
+footer{
+    height:40px;
+    width:100%;
+    background-color:rgb(34, 178, 137);
+}
+
+/* .menu h2{
+    position: absolute;
+    top: 55%;
+    left: 50%;
+} */
